@@ -10,7 +10,7 @@ latihan 2 tentang CV
 	<body style = "background-color:pink">
 	<h2>Curriculum Vitae (CV)</h2>
  	<ol>
-	<p style= "font-family: Futura; font-size: 20px"><b>Data Pribadi</b></p>  
+	<p><b>Data Pribadi</b></p>  
 	<tr>
          <li>Nama : Berdina Amelia W.</li>
          <li>Jenis Kelamin : Perempuan</li>
@@ -27,7 +27,7 @@ latihan 2 tentang CV
 
 	<tr>
 	<ol>
-   	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
+   	<p><b>Riwayat Pendidikan</b></p>
 	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
 	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
 	<li>2008-2011 : SMA Negeri 4 Probolinggo</li>
@@ -37,7 +37,7 @@ latihan 2 tentang CV
 	
 	<tr>
 	<ol>
-	<p style= "font-family: Futura; font-size: 20px"><b>Kursus & Pelatihan</b></p>
+	<p><b>Kursus & Pelatihan</b></p>
 	<li>2008 : Bahasa Inggris (1 tahun)</li>
 	<li>2011 : Komputer (3 bulan)</li>
 	</ol>
